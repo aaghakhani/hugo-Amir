@@ -29,7 +29,7 @@ sections:
       text: |-
         I am a tenure-track Professor in Biomedical Systems at the University of Stuttgart, where I lead the **Microrobotic Biomedical Systems** group. Previously, I was a Lecturer (Assistant Professor) in Mechanical Engineering at [Newcastle University](https://www.ncl.ac.uk). Prior to that, I was a postdoctoral fellow at [Max Planck Institute for Intelligent Systems](https://pi.is.mpg.de/), Department of Physical Intelligence in Stuttgart, Germany. I obtained my Ph.D. in Mechanical Engineering from [Koc University](https://www.ku.edu.tr/en), Turkey, in 2018. I got my B.Sc. in Mechanical Engineering from [Sharif University of Technology](https://en.sharif.edu/) in 2012.
 
-        I have multiple **PhD positions** in my group, click [here](/teams) for more information!
+        I have multiple **PhD positions** in my group, click [here](/team) for more information!
 
         ---
     design:
@@ -41,7 +41,7 @@ sections:
       subtitle: ""
       text:
       # Page type to display. E.g. post, talk, publication...
-      page_type: news
+      page_type: post
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
@@ -60,7 +60,7 @@ sections:
     design:
       # Choose a layout view
       view: compact
-      columns: "1"
+      columns: "2"
 
   - block: collection
     content:
