@@ -60,7 +60,7 @@ sections:
     design:
       # Choose a layout view
       view: compact
-      columns: "2"
+      columns: "1"
 
   - block: collection
     content:
