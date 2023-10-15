@@ -29,19 +29,19 @@ sections:
       text: |-
         I am a tenure-track Professor in Biomedical Systems at the University of Stuttgart, where I lead the **Microrobotic Biomedical Systems** group. Previously, I was a Lecturer (Assistant Professor) in Mechanical Engineering at [Newcastle University](https://www.ncl.ac.uk). Prior to that, I was a postdoctoral fellow at [Max Planck Institute for Intelligent Systems](https://pi.is.mpg.de/), Department of Physical Intelligence in Stuttgart, Germany. I obtained my Ph.D. in Mechanical Engineering from [Koc University](https://www.ku.edu.tr/en), Turkey, in 2018. I got my B.Sc. in Mechanical Engineering from [Sharif University of Technology](https://en.sharif.edu/) in 2012.
 
+        I have multiple **PhD positions** in my group, click [here](/teams) for more information!
+
         ---
     design:
       columns: "1"
 
   - block: collection
     content:
-      title: Recent News
+      title: News
       subtitle: ""
-      text: |-
-        Please visit our #opportunites page
-
+      text:
       # Page type to display. E.g. post, talk, publication...
-      page_type: post
+      page_type: news
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
@@ -61,4 +61,31 @@ sections:
       # Choose a layout view
       view: compact
       columns: "1"
+
+  - block: collection
+    content:
+      title: Featured Articles
+      subtitle: ""
+      text:
+      # Page type to display. E.g. post, talk, publication...
+      page_type: publication
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        author: "Aghakhani, Amirreza"
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      # Choose a layout view
+      view: compact
+      columns: "2"
 ---

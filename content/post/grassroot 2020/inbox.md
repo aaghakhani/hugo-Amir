@@ -1,7 +1,11 @@
 ---
-layout: post
+title: MPI-IS Grassroots 2020 Funding (24,000 €/Year)
+layout:
 date: 2020-11-25
 inline: true
+draft: false
+tags:
+  - Grants
 ---
 
 MPI-IS Grassroots 2020 Funding (24,000 €/Year)
