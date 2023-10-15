@@ -9,34 +9,37 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: 
+      text:
     design:
       background:
         color: black
         text_color_light: true
         image:
           # Add your image background to `assets/media/`.
-          filename: li-yang-5h_dMuX_7RE-unsplash.webp
+          filename: background.jpg
           filters:
-            brightness: 0.5
+            brightness: 0.9
           size: cover
           position: center
           parallax: false
   - block: markdown
     content:
-      title: 'Welcome 👋'
-      subtitle: ''
+      title: "Welcome 👋"
+      subtitle: ""
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a tenure-track Professor in Biomedical Systems at the University of Stuttgart, where I lead the **Microrobotic Biomedical Systems** group. Previously, I was a Lecturer (Assistant Professor) in Mechanical Engineering at [Newcastle University](https://www.ncl.ac.uk). Prior to that, I was a postdoctoral fellow at [Max Planck Institute for Intelligent Systems](https://pi.is.mpg.de/), Department of Physical Intelligence in Stuttgart, Germany. I obtained my Ph.D. in Mechanical Engineering from [Koc University](https://www.ku.edu.tr/en), Turkey, in 2018. I got my B.Sc. in Mechanical Engineering from [Sharif University of Technology](https://en.sharif.edu/) in 2012.
 
-        **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+        ---
     design:
-      columns: '1'
+      columns: "1"
+
   - block: collection
     content:
       title: Recent News
-      subtitle: ''
-      text: ''
+      subtitle: ""
+      text: |-
+        Please visit our #opportunites page
+
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
@@ -57,5 +60,5 @@ sections:
     design:
       # Choose a layout view
       view: compact
-      columns: '1'
+      columns: "1"
 ---
