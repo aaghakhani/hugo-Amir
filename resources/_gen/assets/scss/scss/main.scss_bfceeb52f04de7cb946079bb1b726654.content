@@ -9659,6 +9659,12 @@ div.chart {
   width: 150px;
   height: 150px; }
 
+figure img {
+  max-width: 75%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto; }
+
 .portrait-title h2 {
   font-size: 2.5rem; }
 
