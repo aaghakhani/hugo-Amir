@@ -36,7 +36,7 @@ sections:
         - We are also hiring PhD students through IMPRS-IS program, apply [here](https://imprs.is.mpg.de/application)! 
 
         ## About Me:
-        I am a tenure-track Professor in Biomedical Systems at the University of Stuttgart, where I lead the **Microrobotic Biomedical Systems** group. Previously, I was a Lecturer (Assistant Professor) in Mechanical Engineering at [Newcastle University](https://www.ncl.ac.uk). Prior to that, I was a postdoctoral fellow at [Max Planck Institute for Intelligent Systems](https://pi.is.mpg.de/), Department of Physical Intelligence in Stuttgart, Germany. I obtained my Ph.D. in Mechanical Engineering from [Koc University](https://www.ku.edu.tr/en), Turkey, in 2018. I got my B.Sc. in Mechanical Engineering from [Sharif University of Technology](https://en.sharif.edu/) in 2012.
+        I am a tenure-track Professor in Biomedical Systems at the University of Stuttgart, where I lead the [Microrobotic Biomedical Systems](https://www.bio.uni-stuttgart.de/MicBioSys/) group in Faculty 04, [IBBS](https://www.bio.uni-stuttgart.de/en/). Previously, I was a Lecturer (Assistant Professor) in Mechanical Engineering at [Newcastle University](https://www.ncl.ac.uk). Prior to that, I was a postdoctoral fellow at [Max Planck Institute for Intelligent Systems](https://pi.is.mpg.de/), Department of Physical Intelligence in Stuttgart, Germany. I obtained my Ph.D. in Mechanical Engineering from [Koc University](https://www.ku.edu.tr/en), Turkey, in 2018. I got my B.Sc. in Mechanical Engineering from [Sharif University of Technology](https://en.sharif.edu/) in 2012.
 
         ---
     design:
