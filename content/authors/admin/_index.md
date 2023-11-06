@@ -26,13 +26,17 @@ social:
     link: "mailto:amirreza.aghakhani@bio.uni-stuttgart.de" # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/Amir_StuttgartU
+    link: https://twitter.com/Amir_UStuttgart
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=xA0fBJ0AAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/aaghakhani
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/amirreza-aghakhani-b80b6745/recent-activity/all/
+
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
   # - icon: cv
