@@ -24,7 +24,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: "Welcome to Microrobotic Biomedical Systems group 👋"
+      title: 'Welcome to "Microrobotic Biomedical Systems" group 👋'
       subtitle: ""
       text: |-
         We engineer intelligent microrobots for biomedical applications in targeted drug delivery, microsurgery, detoxification, and diagnostics by advancing micro- and nanofabrication as well as ultrasound technologies. To realize their full potential, medical microrobots have to master locomotion in complex biofluidic environments, wireless actuation and control, precise imaging and localization, or effective drug/cargo delivery. We overcome these challenges by incorporating biologically-inspired adaptive capabilities into microrobotic agents and utilize lab-on-a-chip and microfluidic systems to validate biological and therapeutic functions. We thus bridge the gap between biomedical research and clinical applications to propel medical microrobots to the forefront of modern healthcare.
@@ -33,7 +33,7 @@ sections:
 
         ## Open Positions
         - I have multiple **PhD positions** in my group, click [here](/team) for more information!
-        - We are also hiring PhD students through IMPRS-IS program, apply [here](https://imprs.is.mpg.de/application)! 
+        - We are also hiring PhD students through IMPRS-IS program, apply [here](https://imprs.is.mpg.de/application)! -- **closed position!**
 
         ## About Me:
         I am a tenure-track Professor in Biomedical Systems at the University of Stuttgart, where I lead the [Microrobotic Biomedical Systems](https://www.bio.uni-stuttgart.de/MicBioSys/) group in Faculty 04, [IBBS](https://www.bio.uni-stuttgart.de/en/). Previously, I was a Lecturer (Assistant Professor) in Mechanical Engineering at [Newcastle University](https://www.ncl.ac.uk). Prior to that, I was a postdoctoral fellow at [Max Planck Institute for Intelligent Systems](https://pi.is.mpg.de/), Department of Physical Intelligence in Stuttgart, Germany. I obtained my Ph.D. in Mechanical Engineering from [Koc University](https://www.ku.edu.tr/en), Turkey, in 2018. I got my B.Sc. in Mechanical Engineering from [Sharif University of Technology](https://en.sharif.edu/) in 2012.

@@ -6,6 +6,6 @@ The Academic Pages template enables you to quickly create a multi-page academic 
 
 [![Screenshot](preview.webp)](https://hugo-academic-pages.netlify.app/)
 
-## License 
+## License
 
 This template/theme is licensed to sponsors of George Cushen (sponsoring via GitHub Sponsors or Patreon) under the Sponsor License (see attached `../../LICENSE.md`).
